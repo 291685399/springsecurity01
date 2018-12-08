@@ -1,3 +1,11 @@
+### idea ###
+/target/
+/.idea/
+
+### eclipse ###
+/.settings/
+/.project
+
 # Compiled class file
 *.class
 
